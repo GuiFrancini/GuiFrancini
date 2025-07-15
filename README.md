@@ -13,7 +13,7 @@
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Gui-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
  </div> 
-  ##
+  
  
 <div> 
   <a href="https://www.youtube.com/@guifrancini" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -29,5 +29,5 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=GuiFrancini&show_icons=true&theme=holi" width="440"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFrancini&layout=compact&theme=holi&hide_border=false&langs_count=6" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFrancini&layout=compact&theme=holi&hide_border=false&langs_count=12" width="350" />
 </p>
