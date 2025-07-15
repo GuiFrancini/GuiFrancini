@@ -25,6 +25,6 @@
 <h2>📈 GitHub Overview</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiFrancini&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euBrunoLima&layout=compact&theme=radical&hide_border=false&langs_count=6" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiFrancini&show_icons=true&theme=holi" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFrancini&layout=compact&theme=holi&hide_border=false&langs_count=6" width="400" />
 </p>
