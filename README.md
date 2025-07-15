@@ -9,6 +9,11 @@
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
 </div>
+ <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"=>
+</div>
+  <img align="center" alt="Gui-CssSass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+    <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+        <img align="center" alt="Gui-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   
   ##
  
@@ -25,6 +30,6 @@
 <h2>📈 GitHub Overview</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuiFrancini&show_icons=true&theme=holi" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFrancini&layout=compact&theme=holi&hide_border=false&langs_count=6" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiFrancini&show_icons=true&theme=holi" width="440"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFrancini&layout=compact&theme=holi&hide_border=false&langs_count=6" width="350" />
 </p>
