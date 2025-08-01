@@ -26,6 +26,9 @@
   <a href="https://www.linkedin.com/in/guilherme-francini-9b3606205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuiFrancini&theme=github-compact&hide_border=true" width="90%"/>
+</div>
 
 <h2>📈 GitHub Overview</h2>
 
